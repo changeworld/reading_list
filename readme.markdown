@@ -6,13 +6,13 @@ Coming Up
 ----------
 **[達人プログラマー―システム開発の職人から名匠への道](http://www.amazon.co.jp/exec/obidos/ASIN/4894712741/changeworld-22/ref=nosim/)**アンドリュー ハント (著), デビッド トーマス (著), Andrew Hunt (原著), David Thomas (原著), 村上 雅章 (翻訳)
 
-**[ワーク・シフト (孤独と貧困から自由になる働き方の未来図<2025>)](http://www.amazon.co.jp/exec/obidos/ASIN/B009DFJE9Q/changeworld-22/ref=nosim/)**
+**[ワーク・シフト (孤独と貧困から自由になる働き方の未来図<2025>)](http://www.amazon.co.jp/exec/obidos/ASIN/B009DFJE9Q/changeworld-22/ref=nosim/)**リンダ グラットン (著), 中嶋 愛 (編集), 池村 千秋 (翻訳)
 
 Reading
 ----------
 **[Killer UX Design](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)**Jodie Moule (著)
 
-**[アート・オブ・アジャイル デベロップメント ―組織を成功に導くエクストリームプログラミング (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)**
+**[アート・オブ・アジャイル デベロップメント ―組織を成功に導くエクストリームプログラミング (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873113954/changeworld-22/ref=nosim/)**James Shore (著), Shane Warden (著), 木下 史彦(監訳) (監修), 平鍋 健児(監訳) (監修), 笹井 崇司 (翻訳)
 
 Books
 ----------
