@@ -10,6 +10,8 @@ Coming Up
 
 Reading
 ----------
+**[アート・オブ・アジャイル デベロップメント ―組織を成功に導くエクストリームプログラミング (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)**
+
 Books
 ----------
 **[アプレンティスシップ・パターン　―徒弟制度に学ぶ熟練技術者の技と心得 (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114608/changeworld-22/ref=nosim/)**Dave H. Hoover (著), Adewale Oshineye (著), 柴田 芳樹 (翻訳)
