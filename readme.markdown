@@ -10,10 +10,10 @@ Coming Up
 
 Reading
 ----------
-**[アプレンティスシップ・パターン　―徒弟制度に学ぶ熟練技術者の技と心得 (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114608/changeworld-22/ref=nosim/)**Dave H. Hoover (著), Adewale Oshineye (著), 柴田 芳樹 (翻訳)
-
 Books
 ----------
+**[アプレンティスシップ・パターン　―徒弟制度に学ぶ熟練技術者の技と心得 (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114608/changeworld-22/ref=nosim/)**Dave H. Hoover (著), Adewale Oshineye (著), 柴田 芳樹 (翻訳)
+
 **[リーン・スタートアップ ―ムダのない起業プロセスでイノベーションを生みだす](http://www.amazon.co.jp/exec/obidos/ASIN/4822248976/changeworld-22/ref=nosim/)**エリック・リース (著), 伊藤 穣一(MITメディアラボ所長) (解説), 井口 耕二 (翻訳)
 
 **[リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)](http://www.amazon.co.jp/exec/obidos/ASIN/4873115655/changeworld-22/ref=nosim/)**Dustin Boswell (著), Trevor Foucher (著), 須藤 功平 (解説), 角 征典 (翻訳)
