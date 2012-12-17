@@ -6,10 +6,10 @@ Coming Up
 ----------
 **[達人プログラマー―システム開発の職人から名匠への道](http://www.amazon.co.jp/exec/obidos/ASIN/4894712741/changeworld-22/ref=nosim/)**アンドリュー ハント (著), デビッド トーマス (著), Andrew Hunt (原著), David Thomas (原著), 村上 雅章 (翻訳)
 
-**[Killer UX Design](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)**Jodie Moule (著)
-
 Reading
 ----------
+**[Killer UX Design](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)**Jodie Moule (著)
+
 **[アート・オブ・アジャイル デベロップメント ―組織を成功に導くエクストリームプログラミング (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)**
 
 Books
