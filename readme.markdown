@@ -16,6 +16,8 @@ Reading
 
 Books
 ----------
+**[SCRUM BOOT CAMP THE BOOK](http://www.amazon.co.jp/exec/obidos/ASIN/4798129712/changeworld-22/ref=nosim/)**西村 直人 (著), 永瀬 美穂 (著), 吉羽 龍太郎 (著) 
+
 **[Running Lean ―実践リーンスタートアップ (THE LEAN SERIES)](http://www.amazon.co.jp/exec/obidos/ASIN/4873115914/changeworld-22/ref=nosim/)**アッシュ・マウリャ (著), 渡辺 千賀 (解説), エリック・リース (編集), 角 征典 (翻訳)
 
 **[アプレンティスシップ・パターン　―徒弟制度に学ぶ熟練技術者の技と心得 (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873114608/changeworld-22/ref=nosim/)**Dave H. Hoover (著), Adewale Oshineye (著), 柴田 芳樹 (翻訳)
