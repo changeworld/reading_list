@@ -10,6 +10,8 @@ Coming Up
 
 Reading
 ----------
+**[アジャイル開発とスクラム 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント](http://www.amazon.co.jp/exec/obidos/ASIN/4798129704/changeworld-22/ref=nosim/)**平鍋 健児 (著), 野中 郁次郎 (著)
+
 **[Killer UX Design](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)**Jodie Moule (著)
 
 **[アート・オブ・アジャイル デベロップメント ―組織を成功に導くエクストリームプログラミング (THEORY/IN/PRACTICE)](http://www.amazon.co.jp/exec/obidos/ASIN/4873113954/changeworld-22/ref=nosim/)**James Shore (著), Shane Warden (著), 木下 史彦(監訳) (監修), 平鍋 健児(監訳) (監修), 笹井 崇司 (翻訳)
