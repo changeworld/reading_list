@@ -10,8 +10,6 @@ Coming Up
 
 Reading
 ----------
-**[ITエンジニアの ゼロから始める英語勉強法 英語落ちこぼれでもペラペラになれる!](http://www.amazon.co.jp/exec/obidos/ASIN/482226274X/changeworld-22/ref=nosim/)** 牛尾 剛 (著)
-
 **[アジャイル開発とスクラム 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント](http://www.amazon.co.jp/exec/obidos/ASIN/4798129704/changeworld-22/ref=nosim/)** 平鍋 健児 (著), 野中 郁次郎 (著)
 
 **[Killer UX Design](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)** Jodie Moule (著)
@@ -20,6 +18,8 @@ Reading
 
 Books
 ----------
+**[ITエンジニアの ゼロから始める英語勉強法 英語落ちこぼれでもペラペラになれる!](http://www.amazon.co.jp/exec/obidos/ASIN/482226274X/changeworld-22/ref=nosim/)** 牛尾 剛 (著)
+
 **[7つのデータベース 7つの世界](http://www.amazon.co.jp/exec/obidos/ASIN/4274069087/changeworld-22/ref=nosim/)** Eric Redmond (著), Jim R. Wilson (著), 角 征典 (翻訳)
 
 **[SCRUM BOOT CAMP THE BOOK](http://www.amazon.co.jp/exec/obidos/ASIN/4798129712/changeworld-22/ref=nosim/)** 西村 直人 (著), 永瀬 美穂 (著), 吉羽 龍太郎 (著) 
