@@ -10,6 +10,8 @@ Coming Up
 
 Reading
 ----------
+**[英語のリスニングは発音力で決まる!](http://www.amazon.co.jp/exec/obidos/ASIN/4789011755/changeworld-22/ref=nosim/)** 鵜田 豊 (著)
+
 **[アジャイル開発とスクラム 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント](http://www.amazon.co.jp/exec/obidos/ASIN/4798129704/changeworld-22/ref=nosim/)** 平鍋 健児 (著), 野中 郁次郎 (著)
 
 **[Killer UX Design](http://www.amazon.co.jp/exec/obidos/ASIN/0987153099/changeworld-22/ref=nosim/)** Jodie Moule (著)
