@@ -10,6 +10,8 @@ Coming Up
 
 Reading
 ----------
+**[聞き取り・書き取り用CD付 英語は絶対、勉強するな!―学校行かない・お金かけない・だけどペラペラ](http://www.amazon.co.jp/exec/obidos/ASIN/4763193880/changeworld-22/ref=nosim/)** 鄭 讃容 (著, 原著), 金 淳鎬 (原著, 翻訳)
+
 **[英語のリスニングは発音力で決まる!](http://www.amazon.co.jp/exec/obidos/ASIN/4789011755/changeworld-22/ref=nosim/)** 鵜田 豊 (著)
 
 **[アジャイル開発とスクラム 顧客・技術・経営をつなぐ協調的ソフトウェア開発マネジメント](http://www.amazon.co.jp/exec/obidos/ASIN/4798129704/changeworld-22/ref=nosim/)** 平鍋 健児 (著), 野中 郁次郎 (著)
